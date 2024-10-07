@@ -1,5 +1,8 @@
 ### Portfolio Project: NYC Motor Vehicle Collision Analysis
-
+## Tools used :
+- PowerBi Desktop
+- Power Query
+- PowerBi Service
 #### **Project Overview**
 
 This portfolio project focuses on analyzing motor vehicle collisions in New York City between **2012 - 2024** to provide actionable insights into the causes and impacts of these incidents. The data, visualized using Power BI, highlights trends, contributing factors, and the effects on different categories of road users, such as motorists, cyclists, and pedestrians. By interpreting these visuals, I aim to propose data-driven recommendations that can guide future city planning, policy development, and road safety measures.

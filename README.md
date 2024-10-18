@@ -123,5 +123,3 @@ This project offers a deep dive into NYC motor vehicle collisions and provides a
 ### **Next Steps**
 - Expand the analysis by integrating more datasets, such as traffic volume data, to provide a fuller picture of collision dynamics.
 - Perform predictive analytics to anticipate future trends and proactively address potential risks.
-
-By addressing these factors, the project can serve as a roadmap for safer, smarter urban planning and transportation policy decisions.

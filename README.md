@@ -1,4 +1,4 @@
-### Portfolio Project: NYC Motor Vehicle Collision Analysis
+### NYC Motor Vehicle Collision Analysis
 ## Tools used :
 - PowerBi Desktop
 - Power Query
